@@ -1,0 +1,26 @@
+{
+  "name": "testing-async-code",
+  "version": "1.0.0",
+  "description": "Testing sinion & mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmartincasals/testing-async-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmartincasals/testing-async-code/issues"
+  },
+  "homepage": "https://github.com/gmartincasals/testing-async-code#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "sinon": "^6.3.4"
+  }
+}
